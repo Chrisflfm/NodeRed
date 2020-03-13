@@ -819,7 +819,7 @@
   "node-red-contrib-ui-led": {
    "name": "node-red-contrib-ui-led",
    "version": "0.3.1",
-   "local": false,
+   "local": true,
    "nodes": {
     "ui_led": {
      "name": "ui_led",

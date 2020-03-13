@@ -4,6 +4,7 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
+        "node-red-contrib-func-exec": "~0.1.11",
         "node-red-contrib-modbus": "~5.2.0",
         "node-red-contrib-ui-led": "~0.3.1",
         "node-red-dashboard": "~2.19.3",
