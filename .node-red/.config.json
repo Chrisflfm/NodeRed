@@ -836,7 +836,7 @@
   "node-red-contrib-func-exec": {
    "name": "node-red-contrib-func-exec",
    "version": "0.1.11",
-   "local": false,
+   "local": true,
    "nodes": {
     "func-exec": {
      "name": "func-exec",

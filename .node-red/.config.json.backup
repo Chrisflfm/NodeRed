@@ -832,6 +832,23 @@
      "file": "\\Users\\Chris\\.node-red\\node_modules\\node-red-contrib-ui-led\\led.js"
     }
    }
+  },
+  "node-red-contrib-func-exec": {
+   "name": "node-red-contrib-func-exec",
+   "version": "0.1.11",
+   "local": false,
+   "nodes": {
+    "func-exec": {
+     "name": "func-exec",
+     "types": [
+      "func-exec"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-func-exec",
+     "file": "\\Users\\Chris\\.node-red\\node_modules\\node-red-contrib-func-exec\\func-exec.js"
+    }
+   }
   }
  },
  "_credentialSecret": "32c91ce9b01ab05362293f4b7613ccd924f7d5ccfb0241240ad6ca55f5ddfa76",
