@@ -7,7 +7,7 @@
         "node-red-contrib-func-exec": "~0.1.11",
         "node-red-contrib-modbus": "~5.2.0",
         "node-red-contrib-ui-led": "~0.3.1",
-        "node-red-dashboard": "~2.19.3",
+        "node-red-dashboard": "~2.26.2",
         "node-red-node-mysql": "0.0.19",
         "node-red-node-ui-lineargauge": "~0.3.6",
         "node-red-node-ui-list": "~0.2.5",
